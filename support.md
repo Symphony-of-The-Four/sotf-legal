@@ -19,7 +19,7 @@ still missing, email us with the date of the purchase. Do not include card detai
 **I changed phones.** Your progress is tied to your game account. If you linked Apple or Google
 sign-in, sign in with the same account on the new device and your progress comes back.
 
-**I want my data deleted.** You can delete your account from the game's Settings, or email us and we
+**I want my data deleted.** You can delete your account in the game: **Settings → Account → Delete my data**, or email us and we
 will delete it for you. See the [Privacy Policy](privacy) for what is stored.
 
 ## Legal

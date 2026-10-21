@@ -43,7 +43,7 @@ the game.
 
 ## Ending your account
 
-You can delete your account in **Settings → Account**. We may close accounts that break these
+You can delete your account in **Settings → Account → Delete my data**. We may close accounts that break these
 terms. Deletion is permanent and unspent purchases are not refunded by us.
 
 ## Liability

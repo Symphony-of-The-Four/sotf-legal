@@ -49,7 +49,7 @@ For as long as your account exists. Telemetry is kept in aggregate; raw event lo
 
 ## Deleting your data
 
-In the game: **Settings → Account → Delete account**. This erases your progress and the
+In the game: **Settings → Account → Delete my data**. This erases your progress and the
 identifier from our service and from PlayFab. Purchases cannot be restored after deletion.
 You can also email the address below.
 
