@@ -67,7 +67,7 @@ or the contact below.
 
 ## Contact
 
-Verlen — email: sym.ot.four@gmail.com.
+Support — email: sym.ot.four@gmail.com.
 
 ## Changes
 

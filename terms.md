@@ -54,4 +54,4 @@ have under consumer law where you live.
 
 ## Contact
 
-Verlen — email: sym.ot.four@gmail.com.
+Support — email: sym.ot.four@gmail.com.
